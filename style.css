@@ -1,0 +1,19 @@
+#titolo{
+    text-align:center;
+font-family:Comic Sans MS;
+    color:rgb(255, 0, 0);
+    font-size: 50px;
+}
+
+#potete {
+    text-align:center;
+    font-family:Comic Sans MS;
+    color:rgb(0, 0, 0);
+    font-size: 25px;
+}
+
+body {
+    background-color:rgb(38, 0, 255)
+
+}
+
